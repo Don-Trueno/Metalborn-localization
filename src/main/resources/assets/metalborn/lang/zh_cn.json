@@ -247,7 +247,7 @@
 
   "metal_effect.metalborn.xp.gain": "每秒回复%s点经验值",
   "metal_effect.metalborn.xp.store": "每秒扣除%s点经验值",
-  "metal_effect.metalborn.saturation.gain": "每秒回复%s点饱和度",
+  "metal_effect.metalborn.saturation.gain": "每秒回复%s点饥饿值、%s点饱和度",
   "metal_effect.metalborn.saturation.store": "每秒增加%s点消耗度",
   "metal_effect.metalborn.warmth.heat": "每秒增加%s点热量",
   "metal_effect.metalborn.warmth.cold": "每秒减少%s点热量",
